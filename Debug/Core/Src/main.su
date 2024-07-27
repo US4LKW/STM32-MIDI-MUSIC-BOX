@@ -1,0 +1,2 @@
+../Core/Src/main.c:12:6:TIM2_IRQHandler	4	static
+../Core/Src/main.c:30:5:main	320	static
