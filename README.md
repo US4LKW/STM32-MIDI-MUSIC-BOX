@@ -7,4 +7,4 @@ I only transferred the project to STM32CubeIDE and made a few minor changes.
 
 Project discussion: https://www.elektroda.pl/rtvforum/topic3518088.html
 
-Video: https://www.youtube.com/watch?v=K8pzjLzDs2E
+Video: 'https://www.youtube.com/watch?v=K8pzjLzDs2E'
