@@ -5,7 +5,7 @@ Audio output: A0 (put a low-pass RC filter)
 
 <img src="https://github.com/US4LKW/STM32-MIDI-MUSIC-BOX/blob/main/Img/RC-filter.png" width="400"/>
 
-mid2h - midi (type 0) to header file converter (linux 64bit app, don't ask about source)
+[mid2h - midi (type 0) to header file converter (linux 64bit app, don't ask about source)](https://github.com/US4LKW/STM32-MIDI-MUSIC-BOX/raw/main/MIDI_converter/mid2h)
 
 This project is based on the project https://github.com/piotr-go/Microcontroller/tree/master/MusicBox.
 
