@@ -13,4 +13,8 @@ I only transferred the project to STM32CubeIDE and made a few minor changes.
 
 Project discussion: https://www.elektroda.pl/rtvforum/topic3518088.html
 
+VIDEO:
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/K8pzjLzDs2E/sddefault.jpg)](https://www.youtube.com/watch?v=K8pzjLzDs2E)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K8pzjLzDs2E?si=8Mowu5kYd1aErAuP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
