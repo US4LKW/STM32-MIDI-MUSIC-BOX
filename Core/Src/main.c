@@ -20,7 +20,7 @@ void TIM2_IRQHandler(void) {
 extern const uint16_t music[];
 extern const uint16_t music2[];
 extern const uint16_t music3[];
-extern const uint16_t music4[]; // Example of an additional music array
+//extern const uint16_t music4[]; // Example of an additional music array
 
 // Dynamically define the array of music arrays and their sizes
 const uint16_t *musicArray[] = {music, music2, music3}; // Add or remove arrays as needed
