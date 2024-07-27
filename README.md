@@ -3,8 +3,7 @@ MIDI player FM synthesizer based on STM32F103CBT6 - Blue Pill
 
 Audio output: A0 (put a low-pass RC filter)
 
-![alt text](https://github.com/US4LKW/STM32-MIDI-MUSIC-BOX/blob/main/Img/RC-filter.png?raw=true)
-
+<img src="https://github.com/US4LKW/STM32-MIDI-MUSIC-BOX/blob/main/Img/RC-filter.png" width="128"/>
 
 mid2h - midi (type 0) to header file converter (linux 64bit app, don't ask about source)
 
